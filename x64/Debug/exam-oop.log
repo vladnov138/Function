@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\79246\source\repos\exam-oop\Models\Polinom.h(30,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\79246\source\repos\exam-oop\Models\Polinom.h(27): message : во время компиляции функции-члена класс шаблон "Polinom<double>::Polinom(std::vector<double,std::allocator<double>>)"
+C:\Users\79246\source\repos\exam-oop\Source.cpp(21): message : выполняется компиляция ссылки на экземпляр шаблон функции "Polinom<double>::Polinom(std::vector<double,std::allocator<double>>)"
+C:\Users\79246\source\repos\exam-oop\Source.cpp(21): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Polinom<double>"
+C:\Users\79246\source\repos\exam-oop\Models\Polinom.h(120): warning C4715: Polinom<double>::min_f: значение возвращается не при всех путях выполнения
+  exam-oop.vcxproj -> C:\Users\79246\source\repos\exam-oop\x64\Debug\exam-oop.exe
